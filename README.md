@@ -72,5 +72,5 @@ August 2023 - August 2028
 
 
 ## Contacts
-- LinkedIn: [@aayan](https://www.linkedin.com/in/aayan-angkit-kashyap-02215425b)
+- LinkedIn: [@aayan_angkit_kashyap](https://www.linkedin.com/in/aayan-angkit-kashyap-02215425b)
 - Email: aayanak04@gmail.com
