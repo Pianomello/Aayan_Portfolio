@@ -11,6 +11,8 @@ This repository showcases my skills, shares projects, and tracks my progress in 
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Climate & Catastrophe: A Data-Driven Analysis of Rising Temperatures, Natural Disasters, and their Economic Toll](https://github.com/Pianomello/Climate_Impact)
+      
+    - [Automated Amazon Price Tracker & Alert System](https://github.com/Pianomello/Amazon_Web_Scraper)
         
  
   - Excel
@@ -28,7 +30,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
 In this section, I will list my analysis projects, briefly describing the technology stack used to solve real-world cases.
 
 ### Climate & Catastrophe: A Data-Driven Analysis of Rising Temperatures, Natural Disasters, and their Economic Toll
-**Code:** [`Exploratory_data_analysis_of_temperature_and_natural_disasters.ipynb`](https://github.com/Pianomello/Climate_Impact)
+**Code:** [`Exploratory_data_analysis_of_temperature_and_natural_disasters.ipynb`](https://github.com/Pianomello/Climate_Impact/blob/main/Exploratory_data_analysis_of_temperature_and_natural_disasters.ipynb))
 
 **Goal:** write here...
 
@@ -39,6 +41,23 @@ In this section, I will list my analysis projects, briefly describing the techno
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
 **Results:** here...
+
+
+### Automated Amazon Price Tracker & Alert System
+**Code:** [`Amazon_Web_Scraper.ipynb`](https://github.com/Pianomello/Amazon_Web_Scraper/blob/main/Amazon_Web_Scraper.ipynb)
+
+**Goal:** write here...
+
+**Description:** here...
+
+**Skills:** here...
+
+**Technology:** Python, Pandas, BeautifulSoup, smtplib, requests
+
+**Results:** here...
+
+
+
 
 
 ## Education
