@@ -60,13 +60,10 @@ In this section, I will list my analysis projects, briefly describing the techno
 
 
 ## Education
-Indian Institute of Science Education and Research (IISER) Kolkata:
+Indian Institute of Science Education and Research (IISER) Kolkata,
 
 
-BS-MS, Earth Sciences,
-
-
-August 2023 - August 2028
+BS-MS, Earth Sciences
 
 
 
