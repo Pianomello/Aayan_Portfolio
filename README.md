@@ -20,8 +20,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
   
 
 - [Education](https://github.com/Pianomello/hoho/blob/main/README.md#education)
-  
-- [Certificates](https://github.com/Pianomello/hoho/blob/main/README.md#certificates)
+
   
 - [Contact](https://github.com/Pianomello/hoho/blob/main/README.md#contacts)
 
