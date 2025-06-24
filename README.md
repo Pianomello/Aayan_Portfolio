@@ -1,4 +1,4 @@
-# Aayan Angkit Kashyap - Data Analyst Portfolio
+# Aayan Angkit Kashyap - Portfolio
 ## About
 Hi, I'm Aayan!
 
