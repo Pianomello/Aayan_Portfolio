@@ -30,7 +30,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
 In this section, I will list my analysis projects, briefly describing the technology stack used to solve real-world cases.
 
 ### Climate & Catastrophe: A Data-Driven Analysis of Rising Temperatures, Natural Disasters, and their Economic Toll
-**Code:** [`Exploratory_data_analysis_of_temperature_and_natural_disasters.ipynb`](https://github.com/Pianomello/Climate_Impact/blob/main/Exploratory_data_analysis_of_temperature_and_natural_disasters.ipynb))
+**Code:** [`Exploratory_data_analysis_of_temperature_and_natural_disasters.ipynb`](https://github.com/Pianomello/Climate_Impact/blob/main/Exploratory_data_analysis_of_temperature_and_natural_disasters.ipynb)
 
 **Goal:** write here...
 
