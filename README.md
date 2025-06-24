@@ -28,7 +28,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
 In this section, I will list my analysis projects, briefly describing the technology stack used to solve real-world cases.
 
 ### Climate & Catastrophe: A Data-Driven Analysis of Rising Temperatures, Natural Disasters, and their Economic Toll
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+**Code:** [`Exploratory_data_analysis_of_temperature_and_natural_disasters.ipynb`](https://github.com/Pianomello/Climate_Impact)
 
 **Goal:** write here...
 
