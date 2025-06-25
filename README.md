@@ -129,6 +129,6 @@ BS-MS, Earth Sciences
 
 
 
-## Contacts
+# Contacts
 - LinkedIn: [@aayan_angkit_kashyap](https://www.linkedin.com/in/aayan-angkit-kashyap-02215425b)
 - Email: aayanak04@gmail.com
