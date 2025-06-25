@@ -41,26 +41,28 @@ In this section, I will list my analysis projects, briefly describing the techno
 
 The analysis includes:
 
-Data cleaning and preprocessing include reshaping dataframes for analysis, handling missing values, and converting data types.
+1. Data cleaning and preprocessing include reshaping dataframes for analysis, handling missing values, and converting data types.
 
-Temperature Anomaly Calculation: To identify warming trends, temperature anomalies are calculated from a baseline (1951–1980 average).
+2. Temperature Anomaly Calculation: To identify warming trends, temperature anomalies are calculated from a baseline (1951–1980 average).
 
-Classifying and displaying the frequency of various natural disaster types over time is known as disaster occurrence analysis.
+3. Classifying and displaying the frequency of various natural disaster types over time is known as disaster occurrence analysis.
 
-Evaluating the total and normalized (as a percentage of GDP) financial losses brought on by natural disasters is known as economic damage analysis.
+4. Evaluating the total and normalized (as a percentage of GDP) financial losses brought on by natural disasters is known as economic damage analysis.
 
-Correlation Analysis: To measure the relationship between temperature anomalies, disaster events (both general and climate-related), and economic damages, Pearson and Spearman correlation coefficients are calculated.
+5. Correlation Analysis: To measure the relationship between temperature anomalies, disaster events (both general and climate-related), and economic damages, Pearson and Spearman correlation coefficients are calculated.
 
-Statistical Testing: Determining the statistical significance of observed correlations by utilizing the Shapiro-Wilk Normality Test and analyzing p-values.
+6. Statistical Testing: Determining the statistical significance of observed correlations by utilizing the Shapiro-Wilk Normality Test and analyzing p-values.
 
-Limitations Discussion: Taking into account elements such as reporting bias and the difference between causation and correlation.
-
+7. Limitations Discussion: Taking into account elements such as reporting bias.
 
 **Skills:** data cleaning, data analysis, hypothesis testing, correlation matrices, data visualization.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Results:** here...
+**Results:** In conclusion, the statistics overwhelmingly prove that a hotter world is experiencing more consistent pounding by nature disasters, which is having a consistent and measurable, even if complicated, impact upon the global economy.
+
+
+
 
 
 ### Automated Amazon Price Tracker & Alert System
