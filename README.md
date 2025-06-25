@@ -121,7 +121,7 @@ I created an interactive Bike Sales Dashboard in Excel by cleaning and preparing
 
 
 
-## Education
+# Education
 Indian Institute of Science Education and Research (IISER) Kolkata,
 
 
