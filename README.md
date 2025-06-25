@@ -20,7 +20,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
         
  
   - Excel
-    - [Excel Dashboard for Coffee Sales Analysis](https://github.com/Pianomello/Coffee_Sales_analysis)\
+    - [Excel Dashboard for Coffee Sales Analysis](https://github.com/Pianomello/Aayan_Portfolio)
       
     - [Interactive Excel Dashboard for Bike Purchase Trends Analysis](https://github.com/Pianomello/Bike_Sale_Analysis)
   
@@ -99,7 +99,8 @@ Web scraping is the process of extracting the product title and current price fr
 ### Excel Dashboard for Coffee Sales Analysis
 **Repo:** [`Coffee_Sales_analysis`](https://github.com/Pianomello/Coffee_Sales_analysis)
 
-**Overview** 
+**Overview:**
+
 This project presents a comprehensive Coffee Sales Dashboard created in Microsoft Excel, offering key insights into customer behavior, product performance, and revenue trends. Leveraging Excel functions, pivot tables, slicers, and dynamic visualizations, the dashboard serves as a powerful business intelligence tool to support data-driven decisions in a coffee sales environment. I have learned the methodology and layout from the following YouTube tutorial titled "Excel Dashboard for Data Analysis - Coffee Sales Analysis" by Mo Chen, while also tailoring the design and interactivity based on personal exploration.
 
 **Skills:** Pivot Tables, Dashboard Layout Design, Data Cleaning & Categorization, Data Sorting and Formatting, Excel Formulas (IF, Nested IF, SUM, etc.), Slicers for interactivity.
@@ -111,7 +112,8 @@ This project presents a comprehensive Coffee Sales Dashboard created in Microsof
 ### Interactive Excel Dashboard for Bike Purchase Trends Analysis
 **Repo:** [`Bike_Sales_analysis`](https://github.com/Pianomello/Bike_Sale_Analysis)
 
-**Overview** 
+**Overview**
+
 I created an interactive Bike Sales Dashboard in Excel by cleaning and preparing the data first—de-duping, substituting codes such as "M" with "Married", and aggregating ages with nested IF formulas. I formatted income into currency and segmented users into age groups. I investigated insights such as how income, age, and commute distance affect bike buying with Pivot Tables. The last dashboard has dynamic marital status, region, and other filters (Slicers) so it is simple to investigate trends at a glance.
 
 **Skills:** Pivot Tables, Dashboard Layout Design, Data Cleaning & Categorization, Data Sorting and Formatting, Excel Formulas (IF, Nested IF, SUM, etc.), Slicers for interactivity.
