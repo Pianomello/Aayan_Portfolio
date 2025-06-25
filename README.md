@@ -1,10 +1,14 @@
 # Aayan Angkit Kashyap - Portfolio
 ## About Me
-Hi, I'm Aayan!
+👋 Hello there! I'm Aayan, currently pursuing my Master's in Earth Sciences at IISER Kolkata. As a data analyst, I'm passionate about exploring the intersection between data science and our planet's most critical systems. 
+
+My focus includes exploring everything from the long-term trends in global warming to the computational analysis of seismic activity. This passion within me with a multidisciplinary mindset keeps me how data can be utilized for the ends of disaster risk and hazard management to assist with the realization of a more resilient and sustainable future. 🌿 
+
+When I'm not delving into datasets, I channel my time and creativity through photography 📸 and music, playing both piano and drums. 🎵
 
 
 
-This repository showcases my skills, shares projects, and tracks my progress in data analytics and data science-related topics.
+This repository showcases my skills, shares projects, and tracks my progress in data analytics, especially related to earthquake hazard and climate change.
 
 ## Table of Contents
 - [About Me](https://github.com/Pianomello/hoho/blob/main/README.md#About-Me)
