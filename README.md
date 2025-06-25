@@ -20,6 +20,9 @@ This repository showcases my skills, shares projects, and tracks my progress in 
         
  
   - Excel
+    - [Excel Dashboard for Coffee Sales Analysis](https://github.com/Pianomello/Coffee_Sales_analysis)\
+      
+    - [Interactive Excel Dashboard for Bike Purchase Trends Analysis](https://github.com/Pianomello/Bike_Sale_Analysis)
   
   
 
@@ -33,7 +36,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
 In this section, I will list my analysis projects, briefly describing the technology stack used to solve real-world cases.
 
 ### Climate & Catastrophe: A Data-Driven Analysis of Rising Temperatures, Natural Disasters, and their Economic Toll
-**Code:** [`Exploratory_data_analysis_of_temperature_and_natural_disasters.ipynb`](https://github.com/Pianomello/Climate_Impact/blob/main/Exploratory_data_analysis_of_temperature_and_natural_disasters.ipynb)
+**Repo:** [`Exploratory_data_analysis_of_temperature_and_natural_disasters`](https://github.com/Pianomello/Climate_Impact)
 
 **Goal:** This project's main objective is to present compelling, fact-based proof of the connection between climate change—more especially, anomalies in global temperatures—and the rise in the frequency of natural disasters. It also seeks to examine the financial effects of these calamities while taking global economic expansion into consideration.
 
@@ -66,7 +69,7 @@ The analysis includes:
 
 
 ### Automated Amazon Price Tracker & Alert System
-**Code:** [`Amazon_Web_Scraper.ipynb`](https://github.com/Pianomello/Amazon_Web_Scraper/blob/main/Amazon_Web_Scraper.ipynb)
+**Repo:** [`Amazon_Web_Scraper`](https://github.com/Pianomello/Amazon_Web_Scraper)
 
 **Goal:** This project's main objective is to create an automated web scraper that monitors a product's price on Amazon.in and notifies the user via email when the price falls below a predetermined threshold. This enables customers to buy the things they want at the best prices.
 
@@ -94,7 +97,7 @@ Web scraping is the process of extracting the product title and current price fr
 
 
 ### Interactive Excel Dashboard for Bike Purchase Trends Analysis
-**code:** ['Bike_Sales_analysis']()
+**Repo:** ['Bike_Sales_analysis'](https://github.com/Pianomello/Bike_Sale_Analysis)
 
 
 
