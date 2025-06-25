@@ -20,7 +20,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
         
  
   - Excel
-    - [Excel Dashboard for Coffee Sales Analysis](https://github.com/Pianomello/Aayan_Portfolio)
+    - [Excel Dashboard for Coffee Sales Analysis](https://github.com/Pianomello/Coffee_Sales_analysis)
       
     - [Interactive Excel Dashboard for Bike Purchase Trends Analysis](https://github.com/Pianomello/Bike_Sale_Analysis)
   
