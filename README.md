@@ -68,15 +68,29 @@ The analysis includes:
 ### Automated Amazon Price Tracker & Alert System
 **Code:** [`Amazon_Web_Scraper.ipynb`](https://github.com/Pianomello/Amazon_Web_Scraper/blob/main/Amazon_Web_Scraper.ipynb)
 
-**Goal:** write here...
+**Goal:** This project's main objective is to create an automated web scraper that monitors a product's price on Amazon.in and notifies the user via email when the price falls below a predetermined threshold. This enables customers to buy the things they want at the best prices.
 
-**Description:** here...
+**Description:** The purpose of this Python-based web scraping project is to track a product's price on Amazon's Indian marketplace. Periodically, it retrieves product details, extracts the current price, logs it, and sends the user an email if the price drops below a predetermined threshold.
 
-**Skills:** here...
+Web scraping is the process of extracting the product title and current price from an Amazon product page by parsing the HTML content using BeautifulSoup and requests.
+
+1. Data Extraction & Cleaning: Working with raw HTML to precisely extract the product's name and price, including removing any non-digital characters.
+
+2. Timestamping: Using the datetime module, note the date of every price check.
+
+3. CSV Data Storage: Web_Scraper_data.csv is a CSV file that contains the scraped data (Product Title, Price, Date). With each price check, the script adds new data and, if the file doesn't already exist, creates it.
+
+4. Automated Price Monitoring: Establishing a time-based loop. To enable continuous monitoring, we use time.sleep() to pause the script for a predetermined amount of time (say, a day) before running the subsequent price check.
+
+5. Email Notification System:  When the scraped price falls below a user-specified threshold (for example, ₹65,000 for the DJI Osmo Pocket 3 Creator Combo), an automated email is sent via Smtplib. Secure SMTP server login is part of this feature.
+
+
+
+**Skills:** web scraping, HTTP requests, HTML Parsing, Data Extraction, File I/O (CSV), Email Automation.
 
 **Technology:** Python, Pandas, BeautifulSoup, smtplib, requests
 
-**Results:** here...
+**Results:** This project effectively illustrates how to develop a useful tool for tracking Amazon prices.
 
 
 
