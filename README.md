@@ -93,6 +93,9 @@ Web scraping is the process of extracting the product title and current price fr
 **Results:** This project effectively illustrates how to develop a useful tool for tracking Amazon prices.
 
 
+### Interactive Excel Dashboard for Bike Purchase Trends Analysis
+**code:** ['Bike_Sales_analysis']()
+
 
 
 
