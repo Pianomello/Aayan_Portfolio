@@ -35,11 +35,28 @@ In this section, I will list my analysis projects, briefly describing the techno
 ### Climate & Catastrophe: A Data-Driven Analysis of Rising Temperatures, Natural Disasters, and their Economic Toll
 **Code:** [`Exploratory_data_analysis_of_temperature_and_natural_disasters.ipynb`](https://github.com/Pianomello/Climate_Impact/blob/main/Exploratory_data_analysis_of_temperature_and_natural_disasters.ipynb)
 
-**Goal:** write here...
+**Goal:** This project's main objective is to present compelling, fact-based proof of the connection between climate change—more especially, anomalies in global temperatures—and the rise in the frequency of natural disasters. It also seeks to examine the financial effects of these calamities while taking global economic expansion into consideration.
 
-**Description:** here...
+**Description:** The relationship between anomalies in global temperatures, the frequency of different natural disasters, and the resulting economic damages is examined in this exploratory data analysis (EDA). Three major datasets are used in the project: global temperatures, the number of natural disaster events, and the economic damage caused by natural disasters. Global GDP data is also used for normalization.
 
-**Skills:** here...
+The analysis includes:
+
+Data cleaning and preprocessing include reshaping dataframes for analysis, handling missing values, and converting data types.
+
+Temperature Anomaly Calculation: To identify warming trends, temperature anomalies are calculated from a baseline (1951–1980 average).
+
+Classifying and displaying the frequency of various natural disaster types over time is known as disaster occurrence analysis.
+
+Evaluating the total and normalized (as a percentage of GDP) financial losses brought on by natural disasters is known as economic damage analysis.
+
+Correlation Analysis: To measure the relationship between temperature anomalies, disaster events (both general and climate-related), and economic damages, Pearson and Spearman correlation coefficients are calculated.
+
+Statistical Testing: Determining the statistical significance of observed correlations by utilizing the Shapiro-Wilk Normality Test and analyzing p-values.
+
+Limitations Discussion: Taking into account elements such as reporting bias and the difference between causation and correlation.
+
+
+**Skills:** data cleaning, data analysis, hypothesis testing, correlation matrices, data visualization.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
