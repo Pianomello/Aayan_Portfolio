@@ -1,5 +1,5 @@
 # Aayan Angkit Kashyap - Portfolio
-## About
+## About Me
 Hi, I'm Aayan!
 
 
@@ -7,8 +7,8 @@ Hi, I'm Aayan!
 This repository showcases my skills, shares projects, and tracks my progress in data analytics and data science-related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About Me](https://github.com/Pianomello/hoho/blob/main/README.md#About-Me)
+- [Portfolio Projects](https://github.com/Pianomello/hoho/blob/main/README.md#portfolio-projects)
   - Python
     - [Climate & Catastrophe: A Data-Driven Analysis of Rising Temperatures, Natural Disasters, and their Economic Toll](https://github.com/Pianomello/Climate_Impact)
       
