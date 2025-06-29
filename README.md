@@ -16,6 +16,8 @@ This repository showcases my skills, shares projects, and tracks my progress in 
   - Python
     - [Climate & Catastrophe: A Data-Driven Analysis of Rising Temperatures, Natural Disasters, and their Economic Toll](https://github.com/Pianomello/Climate_Impact)
       
+    - [Comparative Analysis of Historical Temperature Trends in India, China, and the United States](https://github.com/Pianomello/Temp_Trend_Analysis)
+      
     - [Automated Amazon Price Tracker & Alert System](https://github.com/Pianomello/Amazon_Web_Scraper)
         
  
@@ -64,9 +66,29 @@ The analysis includes:
 
 **Results:** In conclusion, the statistics overwhelmingly prove that a hotter world is experiencing more consistent pounding by nature disasters, which is having a consistent and measurable, even if complicated, impact upon the global economy.
 
+### Comparative Analysis of Historical Temperature Trends in India, China, and the United States
+
+**Repo:** [`Temperature_Trend_Analysis`](https://github.com/Pianomello/Temp_Trend_Analysis)
+
+**Goal:** 
+
+1. to compare the temporal trends and temperature distributions in China, India, and the US.
+
+2. to evaluate temporal and spatial variation, especially at the city level, within the Indian nation.
+
+3. to measure and illustrate trends in warming at the national level during the 20th and 21st centuries.
+
+4. to establish an analytical framework for additional data-driven, climate-focused research.
+
+
+**Description:** Using historical climate data, this project examines long-term temperature trends in three geographically and climatically different nations: the United States, China, and India. Histograms, KDE plots, scatterplots, and temporal line plots are among the visual exploratory techniques used in the analysis to compare the evolution of average surface temperatures across cities and countries and find patterns. The project intends to offer empirical insight into regional climate warming by utilizing data from the Global Historical Climatology Network and utilizing data visualization techniques based on Python.
 
 
 
+
+**Skills:** data cleaning, explorotary data analysis, data visualization
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
 
 ### Automated Amazon Price Tracker & Alert System
 **Repo:** [`Amazon_Web_Scraper`](https://github.com/Pianomello/Amazon_Web_Scraper)
