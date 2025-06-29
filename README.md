@@ -34,7 +34,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
 - [Contact](https://github.com/Pianomello/hoho/blob/main/README.md#contacts)
 
   
-## Portfolio Projects
+## Projects
 In this section, I will list my analysis projects, briefly describing the technology stack used to solve real-world cases.
 
 ### Climate & Catastrophe: A Data-Driven Analysis of Rising Temperatures, Natural Disasters, and their Economic Toll
