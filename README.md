@@ -12,7 +12,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
 
 ## Table of Contents
 - [About Me](https://github.com/Pianomello/hoho/blob/main/README.md#About-Me)
-- [Portfolio Projects](https://github.com/Pianomello/hoho/blob/main/README.md#portfolio-projects)
+- [Projects](https://github.com/Pianomello/hoho/blob/main/README.md#projects)
   - Python
     - [Climate & Catastrophe: A Data-Driven Analysis of Rising Temperatures, Natural Disasters, and their Economic Toll](https://github.com/Pianomello/Climate_Impact)
       
