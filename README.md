@@ -86,9 +86,9 @@ The analysis includes:
 
 
 
-**Skills:** data cleaning, explorotary data analysis, data visualization
+**Skills:** data cleaning, exploratory data analysis, data visualization
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
+**Technology:** Python, Pandas, Seaborn, Matplotlib
 
 ### Automated Amazon Price Tracker & Alert System
 **Repo:** [`Amazon_Web_Scraper`](https://github.com/Pianomello/Amazon_Web_Scraper)
